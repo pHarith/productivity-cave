@@ -6,4 +6,4 @@ A planned React Native Web App, aiming to assist users to keep productivity up a
 * Stop-Watch
 * To-do List + Project Organizer
 * Simple Calculator
-* Friendly User Interface
+* Charming Assistant to boost your mood :D
